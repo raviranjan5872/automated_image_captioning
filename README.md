@@ -1,1 +1,0 @@
-# automated_image_captioning
